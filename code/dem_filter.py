@@ -10,6 +10,12 @@ free_liber_filter = free_liber[dem['year'] >= 2018]
 # 新增欄位計算各國各年3.8.3的總分
 free_liber_filter['score'] = free_liber_filter[['v2cldiscm', 'v2cldiscw','v2clacfree','v2clrelig',
                                              'v2clfmove', 'v2cldmovem', 'v2cldmovew']].sum(1)
+# score欄type由str轉float
+free_liber_filter['score'] = free_liber_filter['score'].astype(float)
+
+# sum of observed values divided by the maximum possible score (28) to obtain the 0-1 interval
+free_liber_filter['pan_dem'] = free_liber_filter['score'] / (4 * 7)
+free_liber_filter['pan_dem'] = free_liber_filter['pan_dem'].astype(float)
 # 移除原先csv檔的index
 free_liber_filter = free_liber_filter.reset_index(drop = True)
 
