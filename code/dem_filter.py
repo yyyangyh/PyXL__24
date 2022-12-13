@@ -13,9 +13,6 @@ free_liber_filter['score'] = free_liber_filter[['v2cldiscm', 'v2cldiscw','v2clac
 # score欄type由str轉float
 free_liber_filter['score'] = free_liber_filter['score'].astype(float)
 
-# sum of observed values divided by the maximum possible score (28) to obtain the 0-1 interval
-free_liber_filter['pan_dem'] = free_liber_filter['score'] / (4 * 7)
-free_liber_filter['pan_dem'] = free_liber_filter['pan_dem'].astype(float)
 # 移除原先csv檔的index
 free_liber_filter = free_liber_filter.reset_index(drop = True)
 
