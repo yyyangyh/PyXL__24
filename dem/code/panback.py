@@ -1,4 +1,4 @@
-# 將dem_data以dict的方式開啟，格式會是{index:{'country_name':'XXXXX'...}
+# 將dem_data以dict的方式開啟，格式會是{index:{'country_name':'XXXXX'...}}
 dem_dict = free_liber_filter.to_dict('index')
 
 country_id = 3  # 以最小的country_id為基準
