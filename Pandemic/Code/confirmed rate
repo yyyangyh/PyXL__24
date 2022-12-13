@@ -1,7 +1,0 @@
-#資料有先經過Excel 樞紐前處理，之後用pandas復刻
-import pandas as pd
-case = pd.read_csv(C:\Users\starc\Desktop\111_python class\case_location_year)
-case2 = df.drop(["Africa", "Asia", "Europe", "European Union", "High income", "International", "Low income", "Low middle income","North America", "Niue", "North Korea", "Upper middle income", "World"], axis=1)
-
-
-dkojsd
