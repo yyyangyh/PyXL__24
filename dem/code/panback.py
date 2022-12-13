@@ -5,13 +5,13 @@ country_id = 3  # 以最小的country_id為基準
 delta_dem = []
 base = 0  # 該國2018的score
 for i in range (716):
-    # 同國家時country_id同，比較年分，若為2018(基礎年)，則將該年score設為減數，在list中添加na；否則添加(該年 score - 2018 score)
+    # 同國家時country_id同，比較年分，若為2018(基礎年)，則將該年score設為減數，在list中添加na；否則添加(該年 score - 2018 score)四捨五入到小術後第二位
     if dem_dict[i]['country_id'] == country_id:
         if dem_dict[i]['year'] == 2018:
             base = dem_dict[i]['score']
             delta_dem.append('na')
         else:
-            delta_dem.append(dem_dict[i]['score'] - base)
+            delta_dem.append(round((dem_dict[i]['score'] - base), 2))
     # 首次出現不同國家時必為2018年，更新country_id及base
     else:
         country_id = dem_dict[i]['country_id']
