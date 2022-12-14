@@ -11,7 +11,7 @@ for i in range (716):
             base = dem_dict[i]['score']
             delta_dem.append('na')
         else:
-            delta_dem.append(round((dem_dict[i]['score'] - base), 2))
+            delta_dem.append(round(-(dem_dict[i]['score'] - base), 2))
     # 首次出現不同國家時必為2018年，更新country_id及base
     else:
         country_id = dem_dict[i]['country_id']
@@ -21,4 +21,9 @@ for i in range (716):
 # 把list delta_dem加入原csv檔
 free_liber_filter['panback'] = pd.DataFrame(delta_dem)
 
-free_liber_filter.to_csv("dem_panback.csv")
+# 整理dataframe
+panback = free_liber_filter[['country_name', 'year', 'panback']]
+panback = panback[free_liber_filter['year'] >= 2020]
+panback = panback.reset_index(drop = True)
+
+panback.to_csv("panback.csv")
