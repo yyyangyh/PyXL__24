@@ -1,0 +1,359 @@
+,country_name,year,panback
+0,Mexico,2020,1.49
+1,Mexico,2021,3.03
+2,Suriname,2020,0.25
+3,Suriname,2021,-0.43
+4,Sweden,2020,-0.12
+5,Sweden,2021,-0.12
+6,Switzerland,2020,1.42
+7,Switzerland,2021,0.51
+8,Ghana,2020,-0.71
+9,Ghana,2021,1.62
+10,South Africa,2020,1.37
+11,South Africa,2021,1.37
+12,Japan,2020,1.18
+13,Japan,2021,1.18
+14,Burma/Myanmar,2020,-0.15
+15,Burma/Myanmar,2021,13.23
+16,Russia,2020,0.32
+17,Russia,2021,0.88
+18,Albania,2020,-0.54
+19,Albania,2021,-0.69
+20,Egypt,2020,-1.17
+21,Egypt,2021,-1.15
+22,Yemen,2020,-0.49
+23,Yemen,2021,-1.75
+24,Colombia,2020,5.07
+25,Colombia,2021,5.14
+26,Poland,2020,0.53
+27,Poland,2021,0.6
+28,Brazil,2020,4.73
+29,Brazil,2021,5.55
+30,United States of America,2020,0.77
+31,United States of America,2021,0.23
+32,Portugal,2020,2.04
+33,Portugal,2021,4.03
+34,El Salvador,2020,5.29
+35,El Salvador,2021,6.09
+36,Bangladesh,2020,0.86
+37,Bangladesh,2021,0.59
+38,Bolivia,2020,5.16
+39,Bolivia,2021,-1.57
+40,Haiti,2020,-0.84
+41,Haiti,2021,-0.41
+42,Honduras,2020,0.04
+43,Honduras,2021,-0.62
+44,Mali,2020,-2.62
+45,Mali,2021,-2.85
+46,Pakistan,2020,1.39
+47,Pakistan,2021,0.78
+48,Peru,2020,1.89
+49,Peru,2021,2.82
+50,Senegal,2020,-0.43
+51,Senegal,2021,-1.12
+52,South Sudan,2020,-1.82
+53,South Sudan,2021,-3.91
+54,Sudan,2020,-6.13
+55,Sudan,2021,-2.8
+56,Vietnam,2020,0.32
+57,Vietnam,2021,1.84
+58,Afghanistan,2020,0.77
+59,Afghanistan,2021,8.84
+60,Argentina,2020,3.24
+61,Argentina,2021,3.92
+62,Ethiopia,2020,0.9
+63,Ethiopia,2021,0.96
+64,India,2020,2.43
+65,India,2021,0.41
+66,Kenya,2020,-2.03
+67,Kenya,2021,-1.89
+68,North Korea,2020,0.95
+69,North Korea,2021,0.95
+70,South Korea,2020,1.74
+71,South Korea,2021,0.29
+72,Kosovo,2020,0.09
+73,Kosovo,2021,0.03
+74,Lebanon,2020,-0.68
+75,Lebanon,2021,0.68
+76,Nigeria,2020,-0.34
+77,Nigeria,2021,1.91
+78,Philippines,2020,1.68
+79,Philippines,2021,2.52
+80,Tanzania,2020,1.73
+81,Tanzania,2021,-0.28
+82,Taiwan,2020,1.21
+83,Taiwan,2021,1.21
+84,Thailand,2020,3.64
+85,Thailand,2021,3.32
+86,Uganda,2020,1.76
+87,Uganda,2021,3.61
+88,Venezuela,2020,0.39
+89,Venezuela,2021,-1.72
+90,Benin,2020,3.25
+91,Benin,2021,3.25
+92,Bhutan,2020,-0.42
+93,Bhutan,2021,0.11
+94,Burkina Faso,2020,2.53
+95,Burkina Faso,2021,1.96
+96,Cambodia,2020,1.39
+97,Cambodia,2021,1.39
+98,Indonesia,2020,1.38
+99,Indonesia,2021,1.91
+100,Mozambique,2020,-0.67
+101,Mozambique,2021,0.39
+102,Nepal,2020,0.31
+103,Nepal,2021,1.55
+104,Nicaragua,2020,0.06
+105,Nicaragua,2021,1.77
+106,Niger,2020,0.38
+107,Niger,2021,0.28
+108,Zambia,2020,0.0
+109,Zambia,2021,-1.32
+110,Zimbabwe,2020,1.27
+111,Zimbabwe,2021,2.21
+112,Guinea,2020,5.51
+113,Guinea,2021,6.68
+114,Ivory Coast,2020,1.75
+115,Ivory Coast,2021,1.55
+116,Mauritania,2020,-2.68
+117,Mauritania,2021,-0.17
+118,Canada,2020,-0.98
+119,Canada,2021,-1.56
+120,Australia,2020,-0.31
+121,Australia,2021,0.47
+122,Botswana,2020,1.24
+123,Botswana,2021,0.19
+124,Burundi,2020,-2.97
+125,Burundi,2021,-1.38
+126,Cape Verde,2020,-0.17
+127,Cape Verde,2021,-0.17
+128,Central African Republic,2020,-0.29
+129,Central African Republic,2021,-1.42
+130,Chile,2020,3.36
+131,Chile,2021,3.36
+132,Costa Rica,2020,0.14
+133,Costa Rica,2021,0.14
+134,Timor-Leste,2020,3.14
+135,Timor-Leste,2021,2.65
+136,Ecuador,2020,0.09
+137,Ecuador,2021,0.1
+138,France,2020,1.65
+139,France,2021,1.65
+140,Germany,2020,0.52
+141,Germany,2021,0.52
+142,Guatemala,2020,1.02
+143,Guatemala,2021,-0.05
+144,Iran,2020,0.01
+145,Iran,2021,0.21
+146,Iraq,2020,2.02
+147,Iraq,2021,1.46
+148,Ireland,2020,-1.19
+149,Ireland,2021,-0.32
+150,Italy,2020,3.94
+151,Italy,2021,4.09
+152,Jordan,2020,0.65
+153,Jordan,2021,0.16
+154,Latvia,2020,-0.19
+155,Latvia,2021,-0.19
+156,Lesotho,2020,-2.57
+157,Lesotho,2021,-0.64
+158,Liberia,2020,-2.46
+159,Liberia,2021,-2.46
+160,Malawi,2020,-1.49
+161,Malawi,2021,-1.48
+162,Maldives,2020,-6.99
+163,Maldives,2021,-5.97
+164,Mongolia,2020,2.26
+165,Mongolia,2021,2.26
+166,Morocco,2020,1.06
+167,Morocco,2021,1.06
+168,Netherlands,2020,1.28
+169,Netherlands,2021,2.42
+170,Panama,2020,0.35
+171,Panama,2021,-1.45
+172,Papua New Guinea,2020,-1.55
+173,Papua New Guinea,2021,-0.42
+174,Qatar,2020,0.39
+175,Qatar,2021,4.11
+176,Sierra Leone,2020,2.21
+177,Sierra Leone,2021,1.97
+178,Spain,2020,3.16
+179,Spain,2021,2.95
+180,Syria,2020,0.2
+181,Syria,2021,0.22
+182,Tunisia,2020,-0.27
+183,Tunisia,2021,0.66
+184,Turkey,2020,-0.65
+185,Turkey,2021,-0.77
+186,Ukraine,2020,-1.17
+187,Ukraine,2021,-0.93
+188,United Kingdom,2020,3.12
+189,United Kingdom,2021,4.23
+190,Uruguay,2020,0.23
+191,Uruguay,2021,3.76
+192,Algeria,2020,0.26
+193,Algeria,2021,2.48
+194,Angola,2020,-0.75
+195,Angola,2021,-0.04
+196,Armenia,2020,0.41
+197,Armenia,2021,0.69
+198,Azerbaijan,2020,-0.67
+199,Azerbaijan,2021,-1.2
+200,Belarus,2020,12.98
+201,Belarus,2021,15.62
+202,Cameroon,2020,-1.0
+203,Cameroon,2021,-1.6
+204,Chad,2020,-0.83
+205,Chad,2021,-0.11
+206,China,2020,0.71
+207,China,2021,1.13
+208,Democratic Republic of the Congo,2020,-0.39
+209,Democratic Republic of the Congo,2021,-3.23
+210,Republic of the Congo,2020,2.02
+211,Republic of the Congo,2021,1.74
+212,Djibouti,2020,0.4
+213,Djibouti,2021,0.4
+214,Dominican Republic,2020,-1.5
+215,Dominican Republic,2021,-1.5
+216,Eritrea,2020,-0.57
+217,Eritrea,2021,-0.7
+218,Gabon,2020,4.97
+219,Gabon,2021,4.97
+220,The Gambia,2020,0.23
+221,The Gambia,2021,-0.15
+222,Georgia,2020,0.96
+223,Georgia,2021,3.09
+224,Guinea-Bissau,2020,-1.4
+225,Guinea-Bissau,2021,-3.84
+226,Jamaica,2020,-0.78
+227,Jamaica,2021,0.19
+228,Kazakhstan,2020,-1.49
+229,Kazakhstan,2021,-1.68
+230,Kyrgyzstan,2020,4.28
+231,Kyrgyzstan,2021,3.88
+232,Laos,2020,-1.87
+233,Laos,2021,-0.9
+234,Libya,2020,0.29
+235,Libya,2021,0.4
+236,Madagascar,2020,1.17
+237,Madagascar,2021,1.62
+238,Moldova,2020,0.83
+239,Moldova,2021,-1.03
+240,Namibia,2020,-0.18
+241,Namibia,2021,-0.18
+242,Palestine/West Bank,2020,0.55
+243,Palestine/West Bank,2021,0.96
+244,Rwanda,2020,0.87
+245,Rwanda,2021,2.67
+246,Somalia,2020,1.24
+247,Somalia,2021,1.24
+248,Sri Lanka,2020,4.87
+249,Sri Lanka,2021,5.85
+250,Eswatini,2020,-0.01
+251,Eswatini,2021,3.16
+252,Tajikistan,2020,0.26
+253,Tajikistan,2021,0.13
+254,Togo,2020,-0.1
+255,Togo,2021,-0.1
+256,Trinidad and Tobago,2020,0.49
+257,Trinidad and Tobago,2021,-0.06
+258,Turkmenistan,2020,-1.18
+259,Turkmenistan,2021,-1.03
+260,Palestine/Gaza,2020,-2.29
+261,Palestine/Gaza,2021,-3.63
+262,Somaliland,2020,1.21
+263,Somaliland,2021,0.88
+264,Uzbekistan,2020,-2.97
+265,Uzbekistan,2021,-3.31
+266,Austria,2020,1.28
+267,Austria,2021,0.32
+268,Bahrain,2020,-3.92
+269,Bahrain,2021,-3.92
+270,Barbados,2020,-0.4
+271,Barbados,2021,-0.4
+272,Belgium,2020,0.97
+273,Belgium,2021,1.82
+274,Bosnia and Herzegovina,2020,0.98
+275,Bosnia and Herzegovina,2021,1.89
+276,Bulgaria,2020,-0.35
+277,Bulgaria,2021,-0.83
+278,Comoros,2020,1.1
+279,Comoros,2021,0.18
+280,Croatia,2020,4.39
+281,Croatia,2021,1.35
+282,Cuba,2020,1.2
+283,Cuba,2021,3.2
+284,Cyprus,2020,0.68
+285,Cyprus,2021,0.74
+286,Czech Republic,2020,4.0
+287,Czech Republic,2021,5.1
+288,Denmark,2020,3.78
+289,Denmark,2021,2.29
+290,Equatorial Guinea,2020,0.14
+291,Equatorial Guinea,2021,0.22
+292,Estonia,2020,1.2
+293,Estonia,2021,-0.26
+294,Fiji,2020,-0.1
+295,Fiji,2021,0.28
+296,Finland,2020,1.25
+297,Finland,2021,1.25
+298,Greece,2020,1.01
+299,Greece,2021,1.17
+300,Guyana,2020,0.07
+301,Guyana,2021,2.25
+302,Hong Kong,2020,4.18
+303,Hong Kong,2021,7.5
+304,Iceland,2020,1.65
+305,Iceland,2021,1.65
+306,Israel,2020,-3.24
+307,Israel,2021,-2.9
+308,Kuwait,2020,-1.29
+309,Kuwait,2021,-2.03
+310,Lithuania,2020,1.53
+311,Lithuania,2021,2.65
+312,Luxembourg,2020,3.6
+313,Luxembourg,2021,2.8
+314,North Macedonia,2020,-0.38
+315,North Macedonia,2021,-0.45
+316,Malaysia,2020,0.97
+317,Malaysia,2021,1.14
+318,Malta,2020,0.16
+319,Malta,2021,-0.33
+320,Mauritius,2020,3.51
+321,Mauritius,2021,5.27
+322,Montenegro,2020,6.36
+323,Montenegro,2021,3.87
+324,New Zealand,2020,1.81
+325,New Zealand,2021,3.06
+326,Norway,2020,5.67
+327,Norway,2021,5.67
+328,Oman,2020,0.18
+329,Oman,2021,0.09
+330,Paraguay,2020,2.21
+331,Paraguay,2021,2.21
+332,Romania,2020,2.15
+333,Romania,2021,1.02
+334,Sao Tome and Principe,2020,-0.0
+335,Sao Tome and Principe,2021,-0.0
+336,Saudi Arabia,2020,-0.5
+337,Saudi Arabia,2021,-0.84
+338,Serbia,2020,0.68
+339,Serbia,2021,0.97
+340,Seychelles,2020,-1.89
+341,Seychelles,2021,-1.89
+342,Singapore,2020,-0.93
+343,Singapore,2021,0.53
+344,Slovakia,2020,0.64
+345,Slovakia,2021,-0.12
+346,Slovenia,2020,4.88
+347,Slovenia,2021,5.11
+348,Solomon Islands,2020,0.36
+349,Solomon Islands,2021,0.2
+350,Vanuatu,2020,1.04
+351,Vanuatu,2021,-1.92
+352,United Arab Emirates,2020,0.26
+353,United Arab Emirates,2021,0.84
+354,Hungary,2020,2.55
+355,Hungary,2021,1.1
+356,Zanzibar,2020,-0.14
+357,Zanzibar,2021,-1.95
