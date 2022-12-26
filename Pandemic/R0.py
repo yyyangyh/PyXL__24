@@ -24,5 +24,4 @@ R0_new = pd.DataFrame(R0_val)
 R0_new.set_axis(['Location', 'Date', 'Reproduction Rate', 'R_2020', 'R_2021', 'R_2022'], axis='columns', inplace=True)
 R0_new.to_csv("R0_new.csv")
 
-R0_new.groupby("Location").aggregate({'R_2020':['mean'], 'R_2021':['mean']})
-#我算不出每個國家的各年平均...
+
