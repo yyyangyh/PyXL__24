@@ -23,5 +23,3 @@ for col in R0_val:
 R0_new = pd.DataFrame(R0_val)
 R0_new.set_axis(['Location', 'Date', 'Reproduction Rate', 'R_2020', 'R_2021', 'R_2022'], axis='columns', inplace=True)
 R0_new.to_csv("R0_new.csv")
-
-
